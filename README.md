@@ -8,8 +8,6 @@ Features:
 
 Tech Stack: HTML, CSS, Bootstrap, JavaScript, PHP, SQL, Apache Server (XAMPP)
 
-&nbsp;  
-By,  
-Jimit Dholakia  
-[LinkedIn](https://in.linkedin.com/in/jimit105 "LinkedIn Profile")  
-[GitHub](https://github.com/jimit105 "GitHub Profile")  
+
+
+[GitHub](https://github.com/Sumit98 "GitHub Profile")  
