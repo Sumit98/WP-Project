@@ -54,7 +54,6 @@ $current_url = urlencode($url="http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_
 		<li><a href="#clothing"><table><tr><td><img src="res/icons/clothing.png" /></td>
 		<td>&nbsp;Clothing</td></tr></table></a></li>	
 
-		<li>&nbsp;</li>
 
 		<li><a href="view_cart.php"><table><tr><td><img src="res/icons/checkout.png" /></td>
 		<td>&nbsp;Checkout&nbsp;</td><td><img src="res/icons/new_page.png" /></td></tr></table></a></li>
