@@ -10,7 +10,7 @@ $current_url = urlencode($url="http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Game of Thrones | ThinkGeek</title>
+	<title>Game of Thrones</title>
 	<link rel="icon" href="res/ThinkGeek-pt.png" sizes="16x16">
 	<link rel="stylesheet" type="text/css" href="css/sidebar.css">
 	<link rel="stylesheet" type="text/css" href="css/navbar.css">
